@@ -28,6 +28,7 @@ function Post({ displayName, username, verified, text, image, avatar }) {
           </div>
         </div>
         <img
+        alt=""
         src={image} />
         <div className="post--footer">
             <ChatBubbleOutlineIcon fontSize="small" />

@@ -12,9 +12,7 @@ function Feed() {
             setPosts(snapshot.docs.map(doc => doc.data()))
         })
     },[]);
-    posts.map(post=>{
-        console.log(post.displayName);
-    })
+    
   return (
     <div className="feed">
       {/* Header */}

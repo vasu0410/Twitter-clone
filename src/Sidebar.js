@@ -2,7 +2,7 @@ import React from 'react';
 import './Sidebar.css';
 import HomeIcon from '@mui/icons-material/Home';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import TagIcon from '@mui/icons-material/Tag';
+// import TagIcon from '@mui/icons-material/Tag';
 import SidebarOption from './SidebarOption';
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
